@@ -53,6 +53,13 @@ h2 {
     margin-top: 0;
 }
 
+.divC{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+
 .content-item {
     padding: 10px;
     margin-bottom: 10px;
