@@ -59,6 +59,11 @@ h2 {
     justify-content: center;
 }
 
+.divC > p{
+    font-size: 30px;
+    color: blue;
+}
+
 
 .content-item {
     padding: 10px;
