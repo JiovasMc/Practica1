@@ -80,3 +80,16 @@ h2 {
     transform: translateY(-5px);
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
+
+#divCont{
+    display: grid;
+    min-height: 100dvh;
+    grid-template-rows: auto 1fr auto;
+}
+
+#divFooter{
+    background-color: #03428e;
+    text-align: center;
+    color: white;
+    font-size: large;
+}
