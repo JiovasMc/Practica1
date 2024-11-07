@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open VISTA.html",
-            "file": "c:\\Users\\JiovasMc\\Practicas\\Practica1\\HTML\\VISTA.html"
+            "file": "c:\\Users\\JiovsMc\\Practicas\\Practica1\\HTML\\VISTA.html"
         }
     ]
 }
